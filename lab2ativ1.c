@@ -5,7 +5,7 @@
 #include <unistd.h>
 #include <sys/wait.h>
 
-#define VECTOR_SIZE 1000000
+#define VECTOR_SIZE 200000000
 
 #define NUM_PROCESSES 4
 
